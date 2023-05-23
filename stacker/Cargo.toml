@@ -7,7 +7,7 @@ license = "MIT"
 [dependencies]
 murmurhash32 = "0.3"
 common = { version = "0.5", path = "../common/", package = "tantivy-common" }
-criterion = "0.4.0"
+criterion = "0.5.0"
 
 [[bench]]
 harness = false
